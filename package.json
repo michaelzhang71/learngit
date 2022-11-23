@@ -1,0 +1,24 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "less"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelzhang71/learngit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelzhang71/learngit/issues"
+  },
+  "homepage": "https://github.com/michaelzhang71/learngit#readme",
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "jQuery": "^1.7.4",
+    "less": "^4.1.3"
+  }
+}
